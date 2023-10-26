@@ -1,0 +1,272 @@
+.subheadingg {
+    font-size: 70px;
+    top: -190px;
+    /* position: absolute;
+    top: -50px; */
+    left: 0;
+    right: 0;
+    font-weight: normal;
+    font-size: 100px;
+     display: block; 
+    margin-bottom: 0;
+    color: rgba(0, 0, 0, 0.2); 
+    color: #c8a97e;
+    line-height: 1;
+    font-family: "Great Vibes", cursive;
+    margin-top: 0;
+    /* z-index: -1; */
+}
+@media only screen and (max-width: 768px)
+{
+   .subheadingg{
+    font-size:80px !important;
+    
+   }
+   #sub
+   {
+    font-size: 60px !important;
+   }
+ 
+}
+@media screen and (min-width:992px)
+{
+ #cca
+ {
+    width: 100% !important;
+    height: 18vw !important;
+    object-fit: cover;
+ }
+}
+#carcol
+{
+    background-color:rgba(0, 0, 0, 0.05)
+}
+.card-text
+{
+    color: rgba(0, 0, 0, 0.8);
+}
+#bt
+{
+   text-align:right !important;
+}
+#dol
+{
+    font-size: 20px;
+    color: #c8a97e;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+#tt{
+    font-size: 30px;
+    font-weight:900;
+}
+#car{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+
+
+
+@media only screen and (max-width: 768px)
+{
+    #items{
+        margin-top:0px;
+        text-align: center;
+      
+        
+    }
+    #a
+    {
+        color: black !important;
+    }
+    #ca
+    {
+        margin-left: 0% !important;
+    }
+    #pad{
+            /* padding-left: calc(var(--bs-gutter-x) * .5); */
+            padding-left: 0% !important;
+    }
+    #cee
+   {
+     text-align: center;
+   }
+   .subheadingg{
+    font-size:80px !important;
+    
+   }
+   .subheadinggg{
+    font-size:70px !important;
+    
+   }
+   #sub
+   {
+    font-size: 60px !important;
+   }
+   #ppwid
+   {
+    width: auto;
+    padding-top: 10px;
+   }
+}
+
+ #ca
+ {
+    margin-left: 10%;
+ }
+#cc
+{
+    margin-top: 4%;
+}
+#cd
+{
+    margin-top: 7%;
+}
+#ce
+{
+    color:#c8a97e; 
+}
+#f
+{
+    font-family: sans-serif;
+}
+
+
+
+
+@media screen and (min-width:992px)
+{
+ #cca
+ {
+    width: 100% !important;
+    height: 18vw !important;
+    object-fit: cover;
+ }
+}
+#car{
+    font-size: 20px;
+    font-weight: 600;
+}
+.card-text
+{
+    color: rgba(0, 0, 0, 0.8);
+}
+#bt
+{
+   text-align:right !important;
+}
+#dol
+{
+    font-size: 20px;
+    color: #c8a97e;
+    font-weight: 600;
+    line-height: 1.3;
+}
+#carcol
+{
+    background-color:rgba(0, 0, 0, 0.05)
+}
+#char
+{
+    border: none !important;
+    
+}
+#gap
+{
+    letter-spacing: 7px;
+    
+}
+ #si
+ {
+   font-size: 40px;
+   margin-top: -70px;
+ }
+
+.rounded{
+    border-radius: 50% !important;
+    height: 60%;
+    width: 40%;
+    margin: auto;
+}
+#bac
+{
+    background-image: url('/img/stir-fry-chicken-zucchini-sweet-peppers-green-onion-with-chopsticks.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+@media (min-width: 768px)
+{
+#bac{
+    max-width:100%;
+}
+@media (min-width: 992px)
+{
+    #foo{
+        max-width: 100%;
+    }
+}
+}
+#pack
+{
+    padding-left: 25% !important;
+
+}
+#paa
+{
+    margin-top: 15%;
+    margin-bottom: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5% ;
+    padding-right: 5%;
+}
+/* #bvc
+{
+    background-size: auto !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+} */
+#hfgc
+{
+    background-image:url('/img/healthy-vegetables-wooden-table.jpg');
+  
+   
+}
+#vb
+{
+    background-color: #c8a97e;
+}
+   /* about your story css */
+   #mkko
+   {
+       font-family: Poppins, sans-serif;
+       color: rgb(34, 34, 34);
+       font-weight: 600;
+      line-height: 1.2em !important;
+   }
+   #mkkd
+   {
+       color: rgb(119, 119, 119);
+      font-family: Poppins, sans-serif;
+      font-size: 14px;
+      font-weight: 300;
+      line-height: 1.625em;
+   }
+#asmn
+{
+   background-color: rgb(244, 47, 44);
+   line-height: 42px;
+   padding-left: 30px;
+   padding-right: 30px;
+   border: none;
+   color: rgb(255, 255, 255);
+   font-size: 14px;
+   font-weight: 500;
+   text-transform: uppercase;
+   
+}
+   /* about your story css */

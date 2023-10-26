@@ -1,0 +1,113 @@
+#coursol
+{
+    background-image:url('/img/healthy-vegetables-wooden-table.jpg');
+  
+ background-size: 100%;
+}
+#service
+{
+  transition: 0.5s;
+  background-color: blanchedalmond;
+}
+#service:hover{
+    margin-top: -10px !important;
+
+    background-color:  #c8a97e;
+}
+#service *{
+    transition: .5s;
+}
+/* #service :hover*{
+    color: aliceblue !important;
+} */
+#an:hover{
+    color: white;
+}
+.flex
+{
+    display:flex
+}
+.box:first-child
+{
+    margin-right: auto;
+}
+.card :hover
+{
+    color: white !important;
+    background-color: #c8a97e;
+    transform: scale(1.1);
+
+}
+.card
+{
+    transition:transform .5s;
+}
+
+
+/* bootstrap card */
+.card {
+    max-width: 30em;
+    flex-direction: row;
+}
+.card img{
+    max-width: 25%;
+    margin: auto;
+    padding: 0.7em;
+    border-radius: 0.7em;
+}
+.card-body 
+{
+    display: flex;
+    justify-content: space-between;
+}
+.text-section
+{
+    max-width:60%
+}
+.cta-section{
+    max-width:60%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+.cta-section .btn
+{
+    padding: 0.3em 0.5em;
+    background-color: #c8a97e;
+    border-color: #c8a97e;
+}
+@media screen and (max-width : 475px)
+{
+    .card 
+    {
+        font-size: 0.9em;
+    }
+}
+/* bootstrap card end */
+
+/* back css */
+#bac
+{
+    /* background-image: url('/img/stir-fry-chicken-zucchini-sweet-peppers-green-onion-with-chopsticks.jpg'); */
+    background-attachment: fixed;
+    background-size: cover;
+    
+    
+}
+#ce
+{
+    color:#c8a97e; 
+}
+#f
+{
+    font-family: sans-serif;
+}
+@media only screen and (max-width: 768px)
+{
+    #cee
+   {
+     text-align: center;
+   }
+}
+/* back css */
